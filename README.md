@@ -1,1 +1,2 @@
 # leaflet-challenge
+For this assignment, we were tasked with using Leaflet to plot earthquake data gathered from the United States Geological Survey. I chose a dataset with earthquakes with a magnitude of 4.5 or higher that occured within the last month. The map plotted the earthquakes based on longitude and latitude. The markers were color coordinated based on magnitude, and the size of the markers was determined by the depth of the earthquake. 
